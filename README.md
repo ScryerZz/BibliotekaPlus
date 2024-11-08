@@ -1,5 +1,5 @@
-# LibraryPlusApiDb
+# BibliotekaPlus
 
-Работу выполнили: Губайдуллин Эрик
+Работу выполнил: Губайдуллин Эрик
 
 Скрипт БД расположен по пути: Praktos\DB Script\BibliotekaPlus.sql
